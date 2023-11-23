@@ -1,0 +1,14 @@
+Printf | SNT
+-> | Flechita
+printf | ST
+( | ST
+cadena | ST
+) | ST
+; | ST
+\; | FinProduccion
+A | SNT
+-> | Flechita
+a | ST
+b | ST
+Printf | SNT
+\; | FinProduccion
